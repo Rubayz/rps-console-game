@@ -11,3 +11,5 @@ function rps(choice) {
     if(choice == random) return console.log("It's a tie!");
 }
 rps("paper");
+rps("rock");
+rps("scissor");
