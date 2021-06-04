@@ -1,4 +1,3 @@
-﻿# rps-console-game
 <h1>RPS web game!</h1>
 <h3>Play the game here:- <a href="https://rubayz.github.io/rps-web-game/">RPS</a></h3>
 <h4>Here's an example</h4>
